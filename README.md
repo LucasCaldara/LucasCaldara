@@ -33,7 +33,7 @@ Meu nome é Lucas e sou estudante de ADS, tenho tido mais interesse pela parte d
 
 
 
-#### Minhas estatísticas do GitHub:![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+#### ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  Minhas estatísticas do GitHub:
 
 [![Linguagens](https://github-readme-stats.vercel.app/api?username=LucasCaldara&show_icons=true&locale=pt-BR&&theme=dark)](https://github.com/arthurgalanti?tab=repositories)
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCaldara&layout=compact&locale=pt-BR&&theme=dark)](https://github.com/arthurgalanti?tab=repositories)
